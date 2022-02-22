@@ -57,7 +57,7 @@ int main() {
 ```
 Note that the frame is marked `[fragile]`.
 You will also need to invoke LuaLaTex with the `shell-escape` flag.
-In TexMaker, this can be configured in `Options->Configure TexMaker->Command->LuaLatex`.
+In TexMaker, this can be configured in `Options -> Configure TexMaker -> Commands -> LuaLatex`.
 
 ## License
 The theme itself is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
