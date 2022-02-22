@@ -66,4 +66,4 @@ This does not affect the presentation that you create with the theme.
 
 ## Acknowledgement
 The theme was originally prepared by Wojciech Gryglas.
-We are very grateful for yur work!
+We are very grateful for your work!
